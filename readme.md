@@ -4,7 +4,7 @@ User can become a contributer by managing documentation as well.
 
 <div align="center">
 
-<img src= "https://github.com/harshmittal1750/hacktoberfest2022/blob/main/.github/images/Email%20Banners-Dark.png" width= "1200"/>
+<img src= "https://github.com/harshmittal1750/hacktoberfest2022/EmailBanners-Dark.png" width= "1200"/>
 
 <br> <br>
 <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest2022?color=2b9348"></a>
@@ -50,7 +50,7 @@ Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/m
 
 ### Rules
 
-- Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+- Read the [CONTRIBUTING.md](/Contributing.md) file.
 - Respect people.
 - Be friendly, helpful, and patient.
 - You can contribute in any way.
