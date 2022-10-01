@@ -45,8 +45,8 @@ Check out `good-first-issues` for contributing [here](https://github.com/harshmi
 
 ## Getting Started 🤩🤗:
 
-<h3 style="color:red" >- Fork this repo (button on top)</h3>
-<h3 style="color:red" >- Clone on your local machine</h3>
+<h3 style="color:red" >- Fork this repo (button on top) (Mandatory)</h3>
+<h3 style="color:red" >- Clone on your local machine(Mandatory)</h3>
 
 ```
 git clone https://github.com/harshmittal1750/hacktoberfest2022.git
