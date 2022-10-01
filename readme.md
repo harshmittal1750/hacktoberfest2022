@@ -4,7 +4,7 @@ User can become a contributer by managing documentation as well.
 
 <div align="center">
 
-<img src= "https://github.com/harshmittal1750/hacktoberfest2022/EmailBanners-Dark.png" width= "1200"/>
+<img src= "https://github.com/harshmittal1750/hacktoberfest2022/blob/main/EmailBanners-Dark.png" width= "1200"/>
 
 <br> <br>
 <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/harshmittal1750/hacktoberfest2022?color=2b9348"></a>
