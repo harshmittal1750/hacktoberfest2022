@@ -1,5 +1,3 @@
-User can become a contributer by managing documentation as well.
-
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
 <div align="center">
@@ -44,6 +42,9 @@ Check out `good-first-issues` for contributing [here](https://github.com/harshmi
 </a>
 
 ### Contributing
+
+<h4>User can become a contributer by managing documentation as well.
+</h4>
 
 <h4> See also the list of <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
 Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
