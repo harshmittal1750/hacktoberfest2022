@@ -33,7 +33,6 @@ def radixSort(arr):
         countingSort(arr,exp)
         exp *= 10
 
-# Driver code
 import random
 randlist = []
 for i in range(0,5):
