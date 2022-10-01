@@ -46,7 +46,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/harshmi
 ### Contributing
 
 <h4> See also the list of <a href="https://github.com/harshmittal1750/hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
-Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/master/CONTRIBUTING.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/master/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
+Please read <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/Contributing.md"> CONTRIBUTION.md </a> and <a href="https://github.com/harshmittal1750/hacktoberfest2022/blob/main/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT.md </a> for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Rules
 
@@ -84,7 +84,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/harshmittal1750"><br /><sub><b>Harsh Mittal</b></sub></a><br /><a href="#maintenance-Rohan Saini" title="Maintenance"> 🚧</a> <a href="https://github.com/harshmittal1750/hacktoberfest2022/commits?author=harshmittal1750" title="Code">💻</a> <a href="#content-harshmittal1750" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/harshmittal1750"><br /><sub><b>Harsh Mittal</b></sub></a><br /><a href="#" title="Maintenance"> 🚧</a> <a href="https://github.com/harshmittal1750/hacktoberfest2022/commits?author=harshmittal1750" title="Code">💻</a> <a href="#content-harshmittal1750" title="Content">🖋</a></td>
  
   </tbody>
 </table>
