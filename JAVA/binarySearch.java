@@ -1,37 +1,28 @@
-public class binarySearch {
+import java.util.Scanner;
+// Other imports go here
+// Do NOT change the class name
+class Main{
+  static int rec_binary_search(int arr[], int left, int right, int x) {
+  int result;
+  if (right >= left) {
+    int mid = left + (right - left)/2;
+    if (arr[mid] == x)  return mid;
+    if (arr[mid] > x) return rec_binary_search(arr, left, mid-1, x);
+    result = rec_binary_search(arr, mid+1, right, x);
+    return result;
+  }
+  return -1;       // when element is not present in array.
+}
 
-    int bs(int a[],int low,int high, int x) //time complexity =O(log n)
-	{
-		if (high >= low)
-		{
-			int mid=(low+high)/2;
-		
-		
-		if(x==a[mid])
-			return mid;
-		
-		else if(x<a[mid])
-			return bs(a,low,mid-1,x);
-		else 
-			return bs(a,mid+1,high,x);
-		}
-		else 
-			return -1;
-	}
+  public static void main(String[] args)
+  {
+    int loc, x, array[]={10,11,12,13,14,25,26,37,48,59};
+    x = 11;        // element to be searched in the array
+    loc=rec_binary_search(array,0,10,x);
+    if(loc != -1)
+      System.out.print("Element found at location : " + loc);
+    else
+      System.out.print("Element not present in the array.");
 
-    public static void main(String[] args) {
-
-int arr[]= {1,2,5,7,9};
-int n=arr.length;
-int x=7; // x is the no. you want to search
-
-binarySearch ob=new binarySearch();
-		int res=ob.bs(arr,0,n-1,x);
-		
-		if(res==-1)
-			System.out.println("Not Found");
-		else
-			System.out.println("Element found at index: "+res);
-	}
-    
+  }
 }
