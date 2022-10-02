@@ -4,7 +4,7 @@ class SelectionSort
     void selsort(int arr[])
     {
         int n = arr.length;
-        int i,j,k;
+        int i,j;
         int min_index;
         
         for(i=0;i<n-1;i++)
@@ -42,5 +42,6 @@ class Prog1
         }
         SelectionSort s = new SelectionSort();
         s.selsort(arr);
+        sc.close();
     }
 }

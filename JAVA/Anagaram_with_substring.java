@@ -49,7 +49,7 @@ public class Anagaram_with_substring {
             System.out.println("NO");
         }
         
-
+        sc.close();
        
     }
     static boolean isAnagram(String s1, String s2) 

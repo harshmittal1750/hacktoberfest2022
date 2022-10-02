@@ -89,7 +89,6 @@ public class jobSequencing
       }
     }
     String x[]=new String[max];
-    int m[]=new int[max];
     int profit=0;
     for(int i=0;i<n;i++)
     {
@@ -126,5 +125,6 @@ public class jobSequencing
     }
     System.out.println("\n");
     System.out.print("Profit Earned "+profit);        // printing total profit
+    sc.close();
  }
 }
