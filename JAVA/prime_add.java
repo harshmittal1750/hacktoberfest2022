@@ -23,7 +23,7 @@ public class prime_add {
         System.out.println(c);
 
 
-        
+        sc.close();
         
     }
     static boolean isPrime(int n) 

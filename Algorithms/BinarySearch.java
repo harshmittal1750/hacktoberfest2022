@@ -1,4 +1,4 @@
-public class binarySearch {
+public class BinarySearch {
     static void bSearch(int arr[], int first, int last, int key) {
         int mid = (first + last) / 2;
         while (first <= last) {
